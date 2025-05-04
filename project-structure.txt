@@ -1,0 +1,12 @@
+secure-pdf-viewer/
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│   └── robots.txt
+├── src/
+│   ├── App.js
+│   ├── index.js
+│   └── index.css
+├── package.json
+├── .gitignore
+└── README.md
